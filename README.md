@@ -1,2 +1,4 @@
 # samarSept2023
-Author: Samar
+This is my Sept 2023 first git Repository
+<br>
+Author: Samar Choudhury
